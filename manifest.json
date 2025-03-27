@@ -7,7 +7,7 @@
       "id": "000"
     }
   ],
-  "main": "src/index.ts",
+  "main": "index.ts",
   "vendetta": {
     "icon": "TextIcon"
   }
